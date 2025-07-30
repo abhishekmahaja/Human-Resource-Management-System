@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Sevillana';
+  src: url('/assets/fonts/Sevillana-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
